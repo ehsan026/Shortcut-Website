@@ -1,0 +1,104 @@
+{
+    "ExcelShort": [
+      {
+        "Index": 1,
+        "Action": "Copy",
+        "Shortcut": "Ctrl + C"
+      },
+      {
+        "Index": 2,
+        "Action": "Cut",
+        "Shortcut": "Ctrl + X"
+      },
+      {
+        "Index": 3,
+        "Action": "Paste",
+        "Shortcut": "Ctrl + V"
+      },
+      {
+        "Index": 4,
+        "Action": "Undo",
+        "Shortcut": "Ctrl + Z"
+      },
+      {
+        "Index": 5,
+        "Action": "Redo",
+        "Shortcut": "Ctrl + Y"
+      },
+      {
+        "Index": 6,
+        "Action": "Bold",
+        "Shortcut": "Ctrl + B"
+      },
+      {
+        "Index": 7,
+        "Action": "Italic",
+        "Shortcut": "Ctrl + I"
+      },
+      {
+        "Index": 8,
+        "Action": "Underline",
+        "Shortcut": "Ctrl + U"
+      },
+      {
+        "Index": 9,
+        "Action": "Font Size Increase",
+        "Shortcut": "Ctrl + Shift + >"
+      },
+      {
+        "Index": 10,
+        "Action": "Font Size Decrease",
+        "Shortcut": "Ctrl + Shift + <"
+      },
+      {
+        "Index": 11,
+        "Action": "Font Color",
+        "Shortcut": "Ctrl + Shift + C"
+      },
+      {
+        "Index": 12,
+        "Action": "Fill Color",
+        "Shortcut": "Ctrl + Shift + F"
+      },
+      {
+        "Index": 13,
+        "Action": "Find",
+        "Shortcut": "Ctrl + F"
+      },
+      {
+        "Index": 14,
+        "Action": "Replace",
+        "Shortcut": "Ctrl + H"
+      },
+      {
+        "Index": 15,
+        "Action": "Insert Row",
+        "Shortcut": "Ctrl + Shift + +"
+      },
+      {
+        "Index": 16,
+        "Action": "Delete Row",
+        "Shortcut": "Ctrl + -"
+      },
+      {
+        "Index": 17,
+        "Action": "Insert Column",
+        "Shortcut": "Ctrl + Shift + L"
+      },
+      {
+        "Index": 18,
+        "Action": "Delete Column",
+        "Shortcut": "Ctrl + Shift + -"
+      },
+      {
+        "Index": 19,
+        "Action": "Insert Cell",
+        "Shortcut": "Ctrl + Shift + +"
+      },
+      {
+        "Index": 20,
+        "Action": "Delete Cell",
+        "Shortcut": "Ctrl + Shift + -"
+      }
+    ]
+}
